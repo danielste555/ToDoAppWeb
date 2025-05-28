@@ -1,0 +1,84 @@
+.sidebar {
+    width: 250px;
+    background-color: white;
+    height: 100vh;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+  }
+  
+  .profile {
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .add-task {
+    display: block;
+    color: #c0392b;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 15px;
+  }
+  
+  .nav-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #333;
+    text-decoration: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    margin: 4px 0;
+    transition: background 0.2s;
+  }
+  
+  .nav-link:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .nav-link.active {
+    background-color: #fdecea;
+    color: #c0392b;
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .left span {
+    margin-left: 10px;
+  }
+  
+  .count {
+    background-color: #eee;
+    border-radius: 50%;
+    padding: 2px 7px;
+    font-size: 12px;
+    color: #555;
+  }
+  
+  .section-title {
+    margin: 20px 0 10px;
+    font-weight: bold;
+  }
+  
+  .project-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    padding: 6px 10px;
+    border-radius: 6px;
+    margin: 4px 0;
+  }
+  
+  .footer-link {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #555;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
