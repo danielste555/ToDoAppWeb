@@ -1,0 +1,11 @@
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\danie\OneDrive\Desktop\ProjetCs\toDoBack_End\Domain\obj\Debug\net8.0\ref\Domain.dll

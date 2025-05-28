@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\dtos\\createtachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\dtos\\createtachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F7D23A-A611-404B-8305-9F53C291BC8F}|Domain\\Domain.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\domain\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F7D23A-A611-404B-8305-9F53C291BC8F}|Domain\\Domain.csproj|solutionrelative:domain\\tache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F7D23A-A611-404B-8305-9F53C291BC8F}|Domain\\Domain.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F7D23A-A611-404B-8305-9F53C291BC8F}|Domain\\Domain.csproj|solutionrelative:domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AAB678-135A-4B76-8310-2A1AF8C3DB8A}|Infrastructure\\Infrastructure.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AAB678-135A-4B76-8310-2A1AF8C3DB8A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\presentation\\controllers\\tachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\tachescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDodb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\services\\tacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\services\\tacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{232A69B0-EB1C-4DD9-8AD5-0C527B8D732B}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\interfaces\\itacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\interfaces\\itacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDodb/True/SqlTable/dbo.Taches.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AAB678-135A-4B76-8310-2A1AF8C3DB8A}|Infrastructure\\Infrastructure.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\infrastructure\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AAB678-135A-4B76-8310-2A1AF8C3DB8A}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\dtos\\updatetachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\dtos\\updatetachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|c:\\users\\danie\\onedrive\\desktop\\projetcs\\todoback_end\\application\\dtos\\tachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016747AF-2922-4089-992C-C504BD0E4DB6}|Application\\Application.csproj|solutionrelative:application\\dtos\\tachedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\User.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Domain\\User.cs",
+              "RelativeToolTip": "Domain\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAASwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:36:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:13:30.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tache.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Domain\\Tache.cs",
+              "RelativeDocumentMoniker": "Domain\\Tache.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Domain\\Tache.cs",
+              "RelativeToolTip": "Domain\\Tache.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:10:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TachesController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\Controllers\\TachesController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\TachesController.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\Controllers\\TachesController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\TachesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T01:17:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T16:59:09.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTacheDto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\DTOs\\CreateTacheDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateTacheDto.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\DTOs\\CreateTacheDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateTacheDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:28:31.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:18:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Users [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDodb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-02T22:47:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TacheService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Services\\TacheService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\TacheService.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Services\\TacheService.cs",
+              "RelativeToolTip": "Application\\Services\\TacheService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowGAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:32:26.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:16:24.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T17:19:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:12:16.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITacheService.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Interfaces\\ITacheService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ITacheService.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\Interfaces\\ITacheService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ITacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:31:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.Taches [Donn\u00E9es]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ToDodb/True/SqlTable/dbo.Taches.sql",
+              "ToolTip": "dbo.Taches [Donn\u00E9es]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-25T16:17:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Infrastructure\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Infrastructure\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:38:48.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateTacheDto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\DTOs\\UpdateTacheDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UpdateTacheDto.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\DTOs\\UpdateTacheDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\UpdateTacheDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:29:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TacheDto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\DTOs\\TacheDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\TacheDto.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\ProjetCs\\toDoBack_End\\Application\\DTOs\\TacheDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\TacheDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:30:15.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

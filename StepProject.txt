@@ -1,0 +1,15 @@
+Realiser : 
+1-Creer ma base de donnée et Tb (2/3)
+	-Users
+	-Taches
+2-Creer mes classes (2/3)
+	-User
+	-Tache
+3-Creer mes services et interfaces
+	-User(Service/Interface)
+	-Task(Service/Interface)
+4-Creer mes controllers
+	-User : Login/ Sing up
+	-Tache  : CRUD
+
+5-Creer mon frontend (services, components ,  pages)

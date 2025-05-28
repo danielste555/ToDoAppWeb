@@ -1,0 +1,53 @@
+Vous voulez Refaire Le projet ?, Voici les différentes Etapes : 
+Crée une solution vide
+
+Ajoute les 4 projets :
+
+	Domain (lib de classes)
+
+	Application (lib de classes)
+
+	Infrastructure (lib de classes)
+
+	Presentation (ASP.NET Core Web API)
+Créer les csproj:
+dotnet sln add Domain/Domain.csproj
+dotnet sln add Application/Application.csproj
+dotnet sln add Infrastructure/Infrastructure.csproj
+dotnet sln add Presentation/Presentation.csproj
+
+Créer des references entre les projets : 
+dotnet add Infrastructure/Infrastructure.csproj reference Domain.csproj
+dotnet add Application/Application.csproj reference Domain.csproj
+dotnet add Application/Application.csproj reference Infrastructure.csproj
+dotnet add Presentation/Presentation.csproj reference Application.csproj
+
+Installer EF Core et base de données dans Infrastructure
+dotnet tool install --global dotnet-ef
+cd Infrastructure
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+Domain>>>User.cs
+Infrastructure>>>AppDbContext.cs et DesignTimeDbContextFactory.cs
+Application>>>(Services , Interfaces)
+	Interfaces : IAuthService.cs (les interfaces)
+	Services : AuthService (Les différents services)
+Presentation/Controllers>>>AuthController.cs
+
+Ajoute dans Program.cs :
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<IAuthService, AuthService>();
+
+Dans appsettings.json, ajoute :
+"ConnectionStrings": {
+  "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=AuthExampleDb;Trusted_Connection=True;"
+}
+
+Enfin Faire la migration :
+cd Presentation
+dotnet ef migrations add InitialCreate --project Infrastructure --startup-project Presentation
+dotnet ef database update --project Infrastructure --startup-project Presentation
+
